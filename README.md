@@ -1,6 +1,6 @@
 # Global Pharmacy Sales & Inventory Dashboard
 
-# About the Project:
+# About the Project
 This project is a Power BI dashboard created to analyze global pharmacy sales and inventory data. The goal was to transform raw sales data into meaningful insights that can help understand business performance across different countries, product categories, regions, and customer age groups.
 To prepare the data, I used SQL for querying and analysis, and Power BI for data modeling, visualization, and dashboard design
 
